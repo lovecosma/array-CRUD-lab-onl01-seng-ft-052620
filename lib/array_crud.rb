@@ -43,5 +43,5 @@ end
 
 def retrieve_last_element_from_array(array)
 @i = array
-return @i[(@i.length) -1]
+return @i[(@i.length) - 1]
 end
